@@ -1,4 +1,4 @@
-loadstring(game:HttpGet(https://raw.githubusercontent.com/Scamhub/BloxFruits/refs/heads/main/Source.lua()
+loadstring("game:HttpGet(https://raw.githubusercontent.com/Scamhub/BloxFruits/refs/heads/main/Source.lua"()
 
        local Window = MakeWindow({
          Hub = {Scam hub,
