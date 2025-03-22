@@ -1,0 +1,33 @@
+loadstring(game:HttpGet(https://raw.githubusercontent.com/Scamhub/BloxFruits/refs/heads/main/Source.lua()
+
+       local Window = MakeWindow({
+         Hub = {Scam hub,
+         Title = "Scam hub",
+         Animation = "Scam hub"
+         },
+        Key = {Thoamskevin2014@
+        KeySystem = true,
+        Title = "Key System",
+        Description = "you need key to use this script",
+        KeyLink = "",
+        Keys = {"Thoamskevin2014@"},
+        Notifi = {
+        Notifications = true,
+        CorrectKey = "Running the Script...",
+       Incorrectkey = "The key is incorrect",
+       CopyKeyLink = "Copied to Clipboard"
+      }
+    }
+  })
+
+       MinimizeButton({
+       Image = "131445925876051",
+       Size = {60, 60},
+       Color = Color3.fromRGB(10, 10, 10),
+       Corner = true,
+       Stroke = false,
+       StrokeColor = Color3.fromRGB(255, 0, 0)
+      })
+      
+------ Tab
+     local Tab1o = MakeTab({Name = "Script Farm,Raid,Farm Boss,tab Pvp,Trial V4,Sea event,"})
